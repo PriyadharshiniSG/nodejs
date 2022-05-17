@@ -1,0 +1,6 @@
+[
+    {"name":"John","age":28,"language":["English","Chinese","French"]},
+{"name":"Sam","age":25,"language":["Typescript","C#","JavaScript"]},
+{"name":"Raju","age":30,"language":["Tamil","Hindi","English"]},
+{"name":"Priya","age":21,"language":["English","Tamil","Hindi"]}
+]
